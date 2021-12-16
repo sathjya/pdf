@@ -12,14 +12,14 @@ import os
     
 # Config Variables
 class Config(object):
-    API_ID = int(os.environ.get("API_ID"))
-    API_HASH = os.environ.get("API_HASH")
-    API_TOKEN = os.environ.get("API_TOKEN")
-    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL")
-    CONVERT_API = os.environ.get("CONVERT_API")
-    MAX_FILE_SIZE = os.environ.get("MAX_FILE_SIZE")
-    OWNER_ID = os.environ.get("OWNER_ID")
-    BANNED_USER = os.environ.get("BANNED_USER")
+    API_ID = 2171111
+    API_HASH = "fd7acd07303760c52dcc0ed8b2f73086"
+    API_TOKEN = "5075889854:AAELvW6bgSURT1a3z60pJMaRVGw_P_rQrxQ"
+    UPDATE_CHANNEL = "ourclg"
+    CONVERT_API = 884329853
+    MAX_FILE_SIZE = 100
+    OWNER_ID = 1089528685
+    BANNED_USER = ""
     PDF_THUMBNAIL = "./thumbnail.jpeg"
     
     
@@ -35,17 +35,11 @@ class Msgs(object):
 Some of the main features are:
 ◍ `Convert images to PDF`
 ◍ `Convert PDF to images`
-◍ `Convert files to pdf`                                                                         
-
-Update Channel: @ilovepdf_bot 🤩
-
-[Source Code 🏆](https://github.com/nabilanavab/ilovepdf)
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
 """
     
     
     feedbackMsg = """
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Join grp](http://t.me/ourclg)
 """
     
     
@@ -59,7 +53,7 @@ hit on "retry ♻️" after joining.. 😅
 """
     
     
-    foolRefresh = """വിളച്ചിലെടുക്കല്ലേ കേട്ടോ 😐"""
+    foolRefresh = """kek 😐"""
     
     
     fullPdfSplit = """If you want to split a pdf,
@@ -87,8 +81,6 @@ key 🔐: `{}`"""
     errorEditMsg = """Something went wrong..😐
 
 ERROR: `{}`
-
-For bot updates join @ilovepdf_bot 💎
 """
     
     
@@ -111,15 +103,10 @@ Join Update Channel @ilovepdf_bot, More features soon 🔥
     
     aboutDev = """About Dev:
 
-OwNeD By: @nabilanavab 😜
-Update Channel: @ilovepdf_bot 😇                                                                
+OwNeD By: @s4tyendra 😜
+For: @ourclg 😇                                                                
 
-Lang Used: Python🐍
-[Source Code](https://github.com/nabilanavab/ilovepdf)
-
-Join @ilovepdf_bot, if you ❤ this
-
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+Lang Used: python
 """
     
     
@@ -139,9 +126,6 @@ Join @ilovepdf_bot, if you ❤ this
     - `/generate fileName` - to change pdf name to fileName🤞
     - `/generate name` - to get pdf with your telegram name
 
-For bot updates join @ilovepdf_bot 💎
-
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
 """
     
     
@@ -157,9 +141,6 @@ For bot updates join @ilovepdf_bot 💎
 
 1st bot on telegram wich send images without converting entire pdf to images
 
-For bot updates join @ilovepdf_bot 💎
-
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
 """
     
     
@@ -173,9 +154,6 @@ For bot updates join @ilovepdf_bot 💎
 ◍ added 30+ new file formats that can be converted to pdf..
 API LIMITS..😕
 
-For bot updates join @ilovepdf_bot 💎                                                           
-
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
 """
     
     
@@ -187,9 +165,6 @@ For bot updates join @ilovepdf_bot 💎
 
 IF THERE IS ANY KIND OF REPORTING, BUGS, REQUESTS, AND SUGGESTIONS PLEASE CONTACT @nabilanavab
 
-For bot updates join @ilovepdf_bot 💎                                                           
-
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
 """
     
     
@@ -199,10 +174,6 @@ Some of the main features are:
 ◍ `Convert images to PDF`
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`
-
-For bot updates join @ilovepdf_bot 💎                                                           
-
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
 """
 
 # please don't try to steel this code,
