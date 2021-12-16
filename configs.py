@@ -20,7 +20,7 @@ class Config(object):
     MAX_FILE_SIZE = 100
     OWNER_ID = 1089528685
     BANNED_USER = ""
-    PDF_THUMBNAIL = "./thumbnail.jpeg"
+    PDF_THUMBNAIL = "./IMG_20211216_063728_789.jpg"
     
     
     
